@@ -35,6 +35,7 @@ class MainActivity : AppCompatActivity() {
         R.id.homeFragment, R.id.myCoursesFragment, R.id.balanceFragment, R.id.profileFragment
     )
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
