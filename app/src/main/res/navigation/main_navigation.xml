@@ -154,6 +154,5 @@
         android:id="@+id/playerFragment"
         android:name="uz.rounded.baqlajon.presentation.ui.main.my_courses.detail.pager.detail.video.PlayerFragment"
         android:label="Video lesson"
-        tools:layout="@layout/fragment_player">
-    </fragment>
+        tools:layout="@layout/fragment_player"></fragment>
 </navigation>
